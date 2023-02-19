@@ -1,0 +1,23 @@
+---
+GOAL:
+  - !!python/tuple [1441, 945]
+  - !!python/tuple [1745, 165]
+GRID_SIZE: 30
+RECT_OBSTACLES:
+  0:
+    - [0, 0]
+    - [1919, 1079]
+ROBOT_RADIUS: 30
+START:
+  - !!python/tuple [331, 165]
+  - !!python/tuple [445, 945]
+TASKBCET: { "T1": 100, "T2": 120, "T3": 90 }
+TASKWCET: { "T1": 160, "T2": 180, "T3": 150 }
+TASKSMILETSONE:
+  {
+    "(900, 110)": "T1",
+    "(800, 500)": "T2",
+    "(1500, 600)": "T2",
+    "(600, 900)": "T3",
+  }
+ROBOT_NUMBER: 4
