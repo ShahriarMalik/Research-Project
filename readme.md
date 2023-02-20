@@ -1,5 +1,5 @@
 # Conflict-based Path Planning for Multiple Autonomous Agent
-This is the official python project for the research project of **Shahriar Malik**.
+This is the official repository for the research project of **Shahriar Malik**.
 
 ## About the Research Project
 | Title | Conflict-based Path Planning for Multiple Autonomous Agent
