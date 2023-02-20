@@ -48,7 +48,7 @@ The folder _Scenario_ contains YAML file which is the input of **main.py**
 
 ### Program flow for Q-learning alogrithm
 1. Running **makeQtable.ipynb** will make a q-table from the goodTraces.txt file.
-2. Traces can be generated from sample.xml file using verifyta.exe command line verifyer.  **verifyta.exe sample.xml 1>goodTraces.txt** command should be used to generate .txt file. It necessary to clean the first few lines of newly generated goodTraces.txt file. 
+2. Traces can be generated from sample.xml file using verifyta.exe command line verifyer.  **verifyta.exe sample.xml 1>goodTraces.txt** command should be used to generate .txt file. It is necessary to clean the first few lines of newly generated goodTraces.txt file. 
 3. **makeQtable.ipynb** file will run **Environment_Up.py**  and **DQN.py** file. A q-table named qTable.csv will be generated on current directory.
 
 
